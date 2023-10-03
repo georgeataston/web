@@ -12,7 +12,7 @@
     <div class="gweb-text-layout">
         <h1>Welcome!</h1>
         <p>
-            I currently have not started my course, but when I do you will find all the coursework and programming projects I completed whilst studying for my bachelor's degree in Cyber Security at Aston University.
+            I am a first year student at Aston University studying a bachelor's degree in Cyber Security. At the end of the academic year, I will publish all completed coursework. 
         </p>
     </div>
 </section>
