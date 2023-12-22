@@ -11,7 +11,7 @@
 <section class="gweb-text-layout gweb-link-grey">
     <div class="content">
         <BackBreadcrum/>
-        <h2><a href="/year1/cs1stf/coursework">Coursework</h2>
+        <h2><a href="/year1/cs1stf/">Coursework</h2>
         <p>
             The coursework assignment was to assess the vulnerabilities within a voting system. I had to identify the assets involved and how they could be at risk.
             <br><br>Grade: <b>Pending</b>
