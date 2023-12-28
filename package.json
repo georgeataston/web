@@ -1,6 +1,6 @@
 {
 	"name": "aston.ghott.me",
-	"version": "1.0",
+	"version": "1.2-dev",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
