@@ -8,12 +8,12 @@
 </svelte:head>
 
 <HeroTitle title="Year 1" subtitle="Work completed in my first year at university"/>
-<section class="gweb-text-layout gweb-link-grey">
+<section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
         <h1>Uploadable Work</h1>
         <p>Not all modules have work I can upload for them (i.e., purely assessed on quizzes and exams). However, the following modules do.</p>
-        <h2><a href="/year1/cs1oop">CS1OOP - Object Oriented Programming</a></h2>
+        <h2 class="gweb-link-grey"><a href="/year1/cs1oop">CS1OOP - Object Oriented Programming</a></h2>
         <p>
             Assessment:
         </p>
@@ -25,13 +25,33 @@
         </ul>
 
         <br>
-        <h2><a href="/year1/cs1stf">CS1STF - Security Thinking and Fundamentals</a></h2>
+        <h2 class="gweb-link-grey"><a href="/year1/cs1stf">CS1STF - Security Thinking and Fundamentals</a></h2>
         <p>
             Assessment:
         </p>
         <ul>
             <li>Online Exam - 50%</li>
             <li>Coursework - 50%</li>
+        </ul>
+
+        <br>
+        <h2 class="gweb-link-grey"><a href="/year1/cs1psa">CS1PSA - Professional and Social Aspects of Computing</a></h2>
+        <p>
+            Assessment:
+        </p>
+        <ul>
+            <li>Group Coursework - 60%</li>
+            <li>Individual Presentation - 40%</li>
+        </ul>
+
+        <br>
+        <h2 class="gweb-link-grey"><a href="/year1/cs1iad">CS1IAD - Internet Applications & Database Design</a></h2>
+        <p>
+            Assessment:
+        </p>
+        <ul>
+            <li>Portfolios - 70%</li>
+            <li>Online Quizzes - 30%</li>
         </ul>
 
         <br>
