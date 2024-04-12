@@ -12,7 +12,7 @@
     <div class="content">
         <h1>Welcome!</h1>
         <p>
-            I am a first year student at Aston University studying a bachelor's degree in Cyber Security. At the end of the academic year, I will publish all completed coursework. 
+            I am a first year student at Aston University studying a bachelor's degree in Cybersecurity. At the end of the academic year, I will publish all completed coursework. 
         </p>
 
         <h2>My Work</h2>
