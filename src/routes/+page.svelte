@@ -14,14 +14,6 @@
         <p>
             I am a first year student at Aston University studying a bachelor's degree in Cyber Security. At the end of the academic year, I will publish all completed coursework. 
         </p>
-
-        <h2>My Work</h2>
-        <p>
-            Please find the links to my currently available work.
-        </p>
-        <ul>
-            <li class="gweb-link-grey"><a href="/year1">Year 1</a> - 2023-24</li>
-        </ul>
     </div>
 </section>
 
