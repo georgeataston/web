@@ -8,7 +8,7 @@
 </svelte:head>
 
 <HeroTitle title="George's University Work" subtitle="My university coursework and programming projects"/>
-<section class="gweb-text-layout gweb-link-grey">
+<section class="gweb-text-layout">
     <div class="content">
         <h1>Welcome!</h1>
         <p>
@@ -20,7 +20,7 @@
             Please find the links to my currently available work.
         </p>
         <ul>
-            <li><a href="/year1">Year 1</a> - 2023-24</li>
+            <li class="gweb-link-grey"><a href="/year1">Year 1</a> - 2023-24</li>
         </ul>
     </div>
 </section>
