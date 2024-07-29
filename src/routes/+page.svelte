@@ -12,8 +12,16 @@
     <div class="content">
         <h1>Welcome!</h1>
         <p>
-            I am a first year student at Aston University studying a bachelor's degree in Cyber Security. At the end of the academic year, I will publish all completed coursework. 
+            I am a second year student at Aston University studying a bachelor's degree in Cybersecurity. At the end of each academic year, I will publish all completed coursework. 
         </p>
+
+        <h2>My Work</h2>
+        <p>
+            Please find the links to my currently available work.
+        </p>
+        <ul>
+            <li class="gweb-link-grey"><a href="/year1">Year 1</a> - 79.20% (2023-24)</li>
+        </ul>
     </div>
 </section>
 
