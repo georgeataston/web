@@ -11,17 +11,19 @@
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
-        <h1 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs1psa/coursework.pdf">Group Coursework</h1>
+        <br>
+        <p><i>Module Grade: <b>66.20%</b></i></p>
+        <h2 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs1psa/coursework.pdf">Group Coursework</a> <i>(60%)</i></h2>
         <p>
             The coursework assignment was completed with 2 other members on my course. We chose to write about how the rise of Artificial Intelligence has impacted cybercrime, whilst also looking at the educationed required to prevent cybercrime and how much a cyber attack can cost a business.
-            <br><br>Grade: <b>Pending</b>
+            <br><br>Grade: <b>65%</b> <i>(based on my contributions)</i>
         </p>
 
         <br>
-        <h1>Individual Presentation</h1>
+        <h2 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs1psa/presentation.pdf">Individual Presentation</a> <i>(40%)</i></h2>
         <p>
             This is a recorded presentation regarding an ethical issue of my choosing.
-            <br><br>Grade: <b>Pending</b>
+            <br><br>Grade: <b>68%</b>
         </p>
     </div>
 </section>

@@ -23,6 +23,7 @@
             <li>TP2 Labs - 15%</li>
             <li>TP2 JavaFX Lab - 10%</li>
         </ul>
+        <p>Final Grade: <b>90.39%</b></p>
 
         <br>
         <h2 class="gweb-link-grey"><a href="/year1/cs1stf">CS1STF - Security Thinking and Fundamentals</a></h2>
@@ -33,6 +34,7 @@
             <li>Online Exam - 50%</li>
             <li>Coursework - 50%</li>
         </ul>
+        <p>Final Grade: <b>89.50%</b></p>
 
         <br>
         <h2 class="gweb-link-grey"><a href="/year1/cs1psa">CS1PSA - Professional and Social Aspects of Computing</a></h2>
@@ -43,6 +45,7 @@
             <li>Group Coursework - 60%</li>
             <li>Individual Presentation - 40%</li>
         </ul>
+        <p>Final Grade: <b>66.20%</b></p>
 
         <br>
         <h2 class="gweb-link-grey"><a href="/year1/cs1iad">CS1IAD - Internet Applications & Database Design</a></h2>
@@ -53,6 +56,7 @@
             <li>Portfolios - 70%</li>
             <li>Online Quizzes - 30%</li>
         </ul>
+        <p>Final Grade: <b>75.68%</b></p>
 
         <br>
         <h1>Other Modules</h1>
@@ -66,6 +70,7 @@
             <li>Online Quizzes - 80%</li>
             <li>Linux Lab Quizzes - 20%</li>
         </ul>
+        <p>Final Grade: <b>78.35%</b></p>
 
         <br>
         <h2>CS1MCP - Mathmatics for Computing Professionals</h2>
@@ -76,6 +81,7 @@
             <li>Online Quizzes - 50%</li>
             <li>Written Exam - 50%</li>
         </ul>
+        <p>Final Grade: <b>67.38%</b></p>
     </div>
 </section>
 

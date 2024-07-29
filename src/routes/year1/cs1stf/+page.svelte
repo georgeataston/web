@@ -11,14 +11,16 @@
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
-        <h1 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs1stf/coursework.pdf">Coursework</h1>
+        <br>
+        <p><i>Module Grade: <b>89.50%</b></i></p>
+        <h2 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs1stf/coursework.pdf">Coursework</a> <i>(50%)</i></h2>
         <p>
             The coursework assignment was to assess the vulnerabilities within a voting system. I had to identify the assets involved and how they could be at risk.
             <br><br>Grade: <b>89%</b>
         </p>
 
         <br>
-        <h1>Exam</h1>
+        <h2>Exam <i>(50%)</i></h2>
         <p>
             The exam was based off of knowledge about cryptography, authentication, data anonymisation and access control.
             <br><br>Grade: <b>90%</b>
