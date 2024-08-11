@@ -43,9 +43,3 @@
         
     </div>
 </section>
-
-<style lang="scss">
-    ul {
-        font-size: 20px;
-    }
-</style>

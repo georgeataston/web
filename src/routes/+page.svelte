@@ -10,7 +10,6 @@
 <HeroTitle title="George's University Work" subtitle="My university coursework and programming projects"/>
 <section class="gweb-text-layout">
     <div class="content">
-        <h1>Welcome!</h1>
         <p>
             I am a second year student at Aston University studying a bachelor's degree in Cybersecurity. At the end of each academic year, I will publish all completed coursework. 
         </p>
@@ -24,9 +23,3 @@
         </ul>
     </div>
 </section>
-
-<style lang="scss">
-    ul {
-        font-size: 20px;
-    }
-</style>

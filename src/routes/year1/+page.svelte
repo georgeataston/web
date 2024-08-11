@@ -11,7 +11,7 @@
 <section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
-        <h1>Uploadable Work</h1>
+        <h2>Uploadable Work</h2>
         <p>Not all modules have work I can upload for them (i.e., purely assessed on quizzes and exams). However, the following modules do.</p>
         <h2 class="gweb-link-grey"><a href="/year1/cs1oop">CS1OOP - Object Oriented Programming</a></h2>
         <p>
@@ -84,10 +84,3 @@
         <p>Final Grade: <b>67.38%</b></p>
     </div>
 </section>
-
-
-<style lang="scss">
-    ul {
-        font-size: 20px;
-    }
-</style>

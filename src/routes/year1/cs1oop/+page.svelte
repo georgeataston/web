@@ -44,9 +44,3 @@
         <h2 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs1oop/lab-20.zip">Java FX Lab <i>(10%)</i></a></h2>
         <p>No mark was published for this lab.</p>
 </section>
-
-<style lang="scss">
-    ul {
-        font-size: 20px;
-    }
-</style>
