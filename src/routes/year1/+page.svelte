@@ -59,7 +59,7 @@
         <p>Final Grade: <b>75.68%</b></p>
 
         <br>
-        <h1>Other Modules</h1>
+        <h2>Other Modules</h2>
         <p>These modules not do have any work associated with them.</p>
 
         <h2>CS1CS - Computer Systems</h2>
