@@ -13,12 +13,11 @@
         <BackBreadcrum/>
         <br>
         <p><i>Module Grade: <b>82.50%</b></i></p>
-        <h2>Coursework <i>(50%)</i></h2>
-        <p>
-            This was a two-person team submission. We developed a distributed client-server application based on the UK ITV show <i>The Chase</i> using TCP/IP and a custom protocol with multiple message types. 
+        <h2 class="gweb-link-grey"><a href="https://uniwork.georgehotten.uk/cs2sns/coursework.pdf">Coursework</a> <i>(50%)</i></h2>
+        <p class="gweb-link-grey">
+            This was a two-person team submission I completed with <a href="https://izak.uk">Izak</a>. We developed a distributed client-server application based on the UK ITV show <i>The Chase</i> using TCP/IP and a custom protocol with multiple message types. 
             We implemented SSL/TLS to secure the communication and analyzed the network traffic with Wireshark to verify encryption. 
             We also discussed additional security measures such as passkeys and dynamic firewalls.
-            The report has not yet been published, it is coming soon.
             <br><br>Grade: <b>73%</b>
         </p>
 
